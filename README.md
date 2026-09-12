@@ -2,7 +2,11 @@
 
 
 ¿Qué es Recuva y para qué se utiliza? 
- RTA=
+ RTA=Recuva es un programa utilizado para recuperar archivos que han sido eliminados accidentalmente. Puede recuperar documentos, imágenes, videos y otros tipos de archivos desde discos duros, memorias USB, tarjetas SD y otros dispositivos.
+
+
+
+
 ¿En qué sistemas operativos puede funcionar Recuva? 
  RTA=
 ¿Cuál es la importancia de elegir la ubicación correcta para el escaneo en Recuva? 
