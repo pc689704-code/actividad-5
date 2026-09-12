@@ -51,13 +51,13 @@ Videos, como MP4 y AVI.
 
 
 ¿Qué indica un archivo marcado con un círculo rojo en los resultados de Recuva? 
- RTA=
+ RTA=El círculo rojo indica que el archivo está en muy malas condiciones o ha sido sobrescrito, por lo que las posibilidades de recuperarlo correctamente son muy bajas.
 
 
 
 
 ¿Cuál es la recomendación principal para aumentar las chances de recuperación exitosa con
 Recuva después de borrar un archivo?v
-RTA=
+RTA=La recomendación principal es dejar de utilizar la unidad inmediatamente después de borrar el archivo, para evitar que nuevos datos sobrescriban el espacio donde se encontraba y dificulten su recuperación
 
 
