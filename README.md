@@ -5,12 +5,17 @@
  RTA=Recuva es un programa utilizado para recuperar archivos que han sido eliminados accidentalmente. Puede recuperar documentos, imágenes, videos y otros tipos de archivos desde discos duros, memorias USB, tarjetas SD y otros dispositivos.
 
 
-
-
 ¿En qué sistemas operativos puede funcionar Recuva? 
- RTA=
+ RTA=Recuva funciona principalmente en sistemas operativos Windows.
+
+
+
 ¿Cuál es la importancia de elegir la ubicación correcta para el escaneo en Recuva? 
  RTA=
+
+
+
+
 ¿Qué significa el indicador de color verde al lado de un archivo en Recuva? 
  RTA=
 ¿Qué diferencia hay entre un escaneo normal y un escaneo profundo en Recuva? 
